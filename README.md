@@ -1,4 +1,5 @@
-# PANDA
+# PANDA [FORKED]
+*This project is forked in order to correct some issues relating to plugins*
 
 PANDA is an open-source Platform for Architecture-Neutral Dynamic Analysis. It
 is built upon the QEMU whole system emulator, and so analyses have access to all

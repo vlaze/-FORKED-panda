@@ -107,7 +107,7 @@ progress "Building PANDA..."
 ./build.sh
 
 
-progress "Doing some file placing..."
-sh /scripts/archer.sh
+echo "Doing some file placing..."
+sh ../scripts/archer
 
 progress "PANDA is built and ready to use in panda/qemu/[arch]-softmmu/qemu-system-[arch]."
